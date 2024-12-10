@@ -3,13 +3,10 @@ import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
-  //standalone:true,
   imports: [RouterOutlet],
   templateUrl: './app.component.html',
-  template:'<div>hello</div>',
   styleUrl: './app.component.scss'
 })
-export class AppComponent 
-{
-title='my-app';
+export class AppComponent {
+  title = 'myFirsAngulartApp';
 }
