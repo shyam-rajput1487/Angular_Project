@@ -1,0 +1,15 @@
+INSTALLATION OF Angular
+
+How to install node modules
+=> node install
+
+
+How to install angular 
+=>npm install -g @angular/cli
+
+HOW TO CREATE ANGULAR app
+Syntax=> ng new <Application Name>
+=>ng new my-app
+
+How to run application 
+=> ng serve 
